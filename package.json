@@ -20,7 +20,7 @@
     "pug": "3.0.2",
     "markdown-it": "12.0.2",
     "markdown-it-emoji": "2.0.0",
-    "moment": "2.29.1",
+    "moment": "2.29.2",
     "moment-timezone": "0.5.31",
     "nodemailer": "6.4.16",
     "numeral": "2.0.6",
